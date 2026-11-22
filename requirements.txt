@@ -1,0 +1,10 @@
+openai
+python-dotenv
+pypdf
+faiss-cpu
+numpy
+fastapi
+uvicorn
+streamlit
+requests
+langchain-text-splitters

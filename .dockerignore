@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.vscode/
+.env
+test_openai.py
+test_neo4j.py
+test_neo4j_connection.py
